@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=meleksabit&color=green)\
-👋 About Me:
+ⓘ About Me:
 
 I’m a passionate Dev(Sec)Ops Engineer ♾️ with a sharp focus on security ☠💻🔑🛡. My mission is to craft secure, scalable pipelines while diving deep into the ever-evolving world of cybersecurity, which fuels my passion and curiosity. From coding </>💻 to containers ☸️🐋 and AI 🤖🧠 to automation 🤖⚙️🔧🦾👩‍💻💻, I thrive on building cutting-edge solutions that merge development efficiency with airtight security 🔒🛡️.
 

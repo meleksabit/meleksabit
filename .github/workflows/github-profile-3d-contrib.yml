@@ -13,6 +13,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Setup GitHub Token for Git Authentication
+        uses: actions/setup-git@v2
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
       - name: Commit & Push
         run: |
           git config user.name "github-actions"

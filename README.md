@@ -5,7 +5,7 @@ I’m a passionate Dev(Sec)Ops Engineer ♾️ with a sharp focus on security �
 
 Whether it's writing clean code in Python 🐍, deploying Kubernetes clusters ☸, or leveraging AI models 🤗 to bring machine learning into production, I always keep security at the heart 🫶🏻 of everything I do. I’m driven by the belief that innovation 🚀 and security should go hand in hand 🫱🏼‍🫲🏻, and I’m always exploring new ways to elevate both.
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--
 **meleksabit/meleksabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

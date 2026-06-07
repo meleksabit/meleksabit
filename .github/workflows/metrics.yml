@@ -58,7 +58,7 @@ jobs:
           plugin_traffic: yes
 
       - name: Generate Skyline
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 

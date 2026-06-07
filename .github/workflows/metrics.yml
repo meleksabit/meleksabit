@@ -56,3 +56,17 @@ jobs:
           plugin_lines: yes
 
           plugin_traffic: yes
+
+      - name: Generate Skyline
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: meleksabit
+
+          filename: skyline.svg
+
+          base: ""
+
+          plugin_skyline: yes
+          plugin_skyline_year: current
